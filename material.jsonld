@@ -1,0 +1,46 @@
+{
+	"@id": "https://archive.voodoowarez.com/color-istic/material",
+	"color": "https://archive.voodoowarez.com/color-istic/color#",
+	"material": "https://archive.voodoowarez.com/color-istic/material#",
+
+	"primary1Color": {
+		"@id": "material:primary1",
+		"@type": "color:color"
+	},
+	"primarys2Color": {
+		"@id": "material:primary2",
+		"@type": "color:color"
+	},
+	"primary3Color": {
+		"@id": "material:primary3",
+		"@type": "color:color"
+	},
+	"accent1Color": {
+		"@id": "material:accent1",
+		"@type": "color:color"
+	},
+	"accent2Color": {
+		"@id": "material:accent2",
+		"@type": "color:color"
+	},
+	"accent3Color": {
+		"@id": "material:accent3",
+		"@type": "color:color"
+	},
+	"textColor": {
+		"@id": "material:text",
+		"@type": "color:color"
+	},
+	"canvasColor": {
+		"@id": "material:canvas",
+		"@type": "color:color"
+	},
+	"borderColor": {
+		"@id": "material:border",
+		"@type": "color:color"
+	},
+	"disabledColor": {
+		"@id": "material:disabled",
+		"@type": "color:color"
+	}
+}

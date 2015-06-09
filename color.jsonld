@@ -1,0 +1,10 @@
+{
+	"@id": "https://archive.voodoowarez.com/color-istic/color",
+	"color": "https://archive.voodoowarez.com/color-istic/color",
+	"xsd": "http://www.w3.org/2001/XMLSchema"
+
+	color: {
+		"@id": "color:color",
+		"@type": "xsd:string"
+	}
+}

@@ -1,0 +1,100 @@
+{
+	"@id": "https://archive.voodoowarez.com/color-istic/java",
+	"color": "https://archive.voodoowarez.com/color-istic/color#",
+	"material": "https://archive.voodoowarez.com/color-istic/material#",
+
+	"activeCaption": {
+		"@id": "material:activeCaption",
+		"@type": "color:color"
+	},
+	"activeCaptionBorder": {
+		"@id": "material:activeCaptionBorder",
+		"@type": "color:color"
+	},
+	"activeCaptionText": {
+		"@id": "material:activeCaptionText",
+		"@type": "color:color"
+	},
+	"control": {
+		"@id": "material:control",
+		"@type": "color:color"
+	},
+	"controlDarkShadow": {
+		"@id": "material:controlDarkShadow",
+		"@type": "color:color"
+	},
+	"controlHighlight": {
+		"@id": "material:controlHighlight",
+		"@type": "color:color"
+	},
+	"controlShadow": {
+		"@id": "material:controlShadow",
+		"@type": "color:color"
+	},
+	"controlText": {
+		"@id": "material:controlText",
+		"@type": "color:color"
+	},
+	"desktop": {
+		"@id": "material:desktop",
+		"@type": "color:color"
+	},
+	"inactiveCaption": {
+		"@id": "material:inactiveCaption",
+		"@type": "color:color"
+	},
+	"inactiveCaptionBorder": {
+		"@id": "material:inactiveCaptionBorder",
+		"@type": "color:color"
+	},
+	"inactiveCaptionText": {
+		"@id": "material:inactiveCaptionText",
+		"@type": "color:color"
+	},
+	"infoText": {
+		"@id": "material:infoText",
+		"@type": "color:color"
+	},
+	"menu": {
+		"@id": "material:menu",
+		"@type": "color:color"
+	},
+	"menuText": {
+		"@id": "material:menuText",
+		"@type": "color:color"
+	},
+	"scrollbar": {
+		"@id": "material:scrollbar",
+		"@type": "color:color"
+	},
+	"text": {
+		"@id": "material:text",
+		"@type": "color:color"
+	},
+	"textHighlight": {
+		"@id": "material:textHighlight",
+		"@type": "color:color"
+	},
+	"textHighlightText": {
+		"@id": "material:textHighlightText",
+		"@type": "color:color"
+	},
+	"textInactiveText": {
+		"@id": "material:textInactiveText",
+		"@type": "color:color"
+	},
+	"window": {
+		"@id": "material:window",
+		"@type": "color:color"
+	},
+	"windowBorder": {
+		"@id": "material:windowBorder",
+		"@type": "color:color"
+	},
+	"windowText": {
+		"@id": "material:windowText",
+		"@type": "color:color"
+	}
+}
+
+
